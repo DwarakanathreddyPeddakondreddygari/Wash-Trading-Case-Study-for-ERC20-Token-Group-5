@@ -1,0 +1,8 @@
+Ensemble Anomaly Detection Results
+Random Forest: 0.9037
+Gradient Boosting: 0.9052
+Bagging: 0.8974
+Voting: 0.9040
+Baseline (Isolation Forest): 0.1336
+
+Best parameters for Random Forest: {'max_depth': None, 'min_samples_split': 10, 'n_estimators': 100}
